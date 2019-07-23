@@ -1,10 +1,11 @@
 h1 {
-    color: yellow;
+    color: rgb(246, 204, 86);
     text-align: center;
     background-color: #30559B;
     font-family: 'Courier New';
     font-size: 100;
-    padding: 15px;
+    padding-top: 6px;
+    padding-bottom: 6px;
 }
 
 ul {
